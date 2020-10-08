@@ -1,6 +1,6 @@
 /*
 Author: Jay Torres
-Date: March 16, 2020
+Date: October 8, 2020
 Purpose: The Contact Manager Program: It allows you to create, search, sort, and view contacts on a list similar to a phone book application.
 FileName: ContactManagerProgram.cpp
 */
